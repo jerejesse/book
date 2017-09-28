@@ -1,0 +1,6 @@
+As my ubuntu14.04 can't update gcc to 5.4 with apt-get, I try build it from source.
+Build gcc 5.4 from source.
+
+Download source from here.
+https://ftp.gnu.org/gnu/gcc/gcc-5.4.0/
+
